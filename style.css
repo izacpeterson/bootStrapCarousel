@@ -1,0 +1,13 @@
+/** @format */
+body {
+  /* background-color: #f2d0bd; */
+}
+.btn-primary {
+  background-color: #0f50a6 !important;
+}
+.card-title {
+  color: #0f50a6;
+}
+.card {
+  color: #292023;
+}
